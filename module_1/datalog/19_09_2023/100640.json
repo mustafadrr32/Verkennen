@@ -1,0 +1,588 @@
+{
+    "query": "SELECT health FROM npc",
+    "resultcount": 194,
+    "result": [
+        {
+            "health": 10000
+        },
+        {
+            "health": 22000
+        },
+        {
+            "health": 28000
+        },
+        {
+            "health": 35500
+        },
+        {
+            "health": 50000
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        },
+        {
+            "health": 250
+        }
+    ]
+}

@@ -1,0 +1,588 @@
+{
+    "query": "SELECT health AND profession FROM npc",
+    "resultcount": 194,
+    "result": [
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        },
+        {
+            "health AND profession": 0
+        }
+    ]
+}

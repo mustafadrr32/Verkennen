@@ -1,0 +1,34 @@
+SELECT *FROM courses
+; #09:31:37@dvc-sd.db
+SELECT *FROM courses
+; #09:31:59@dvc-sd.db
+SELECT *FROM teachers; #09:32:08@dvc-sd.db
+SELECT *FROM courses
+; #09:41:29@dvc-sd.db
+SELECT *FROM courses; #09:41:55@dvc-sd.db
+SELECT *FROM courses; #09:45:12@dvc-sd.db
+SELECT *FROM teachers; #09:45:53@dvc-sd.db
+SELECT *FROM teachers; #09:45:53@dvc-sd.db
+SELECT *FROM teachers; #09:45:54@dvc-sd.db
+SELECT *FROM teachers; #09:45:54@dvc-sd.db
+SELECT *FROM teachers; #09:45:58@dvc-sd.db
+SELECT *FROM teachers; #09:46:03@dvc-sd.db
+SELECT *FROM teachers; #09:46:03@dvc-sd.db
+SELECT *FROM teachers; #09:46:03@dvc-sd.db
+SELECT *FROM teachers; #09:47:48@dvc-sd.db
+SELECT id FROM teachers; #09:47:54@dvc-sd.db
+SELECT *FROM courses; #09:48:19@dvc-sd.db
+SELECT *FROM teachers; #09:50:10@dvc-sd.db
+SELECT *FROM courses; #09:50:32@dvc-sd.db
+SELECT *FROM armor; #09:52:10@rubyquest.db
+SELECT *FROM npc; #09:57:16@rubyquest.db
+SELECT health AND profession FROM npc; #09:58:33@rubyquest.db
+SELECT health AND profession FROM npc; #09:58:38@rubyquest.db
+SELECT health FROM npc; #09:58:43@rubyquest.db
+SELECT *FROM courses
+; #10:03:11@dvc-sd.db
+SELECT *FROM teachers; #10:04:01@dvc-sd.db
+SELECT *FROM courses; #10:04:53@dvc-sd.db
+SELECT *FROM armor; #10:05:33@rubyquest.db
+SELECT *FROM weapon; #10:06:06@rubyquest.db
+SELECT health FROM npc; #10:06:40@rubyquest.db

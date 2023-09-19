@@ -1,0 +1,24 @@
+{
+    "query": "SELECT id FROM teachers",
+    "resultcount": 6,
+    "result": [
+        {
+            "id": 1
+        },
+        {
+            "id": 2
+        },
+        {
+            "id": 3
+        },
+        {
+            "id": 5
+        },
+        {
+            "id": 6
+        },
+        {
+            "id": 7
+        }
+    ]
+}
