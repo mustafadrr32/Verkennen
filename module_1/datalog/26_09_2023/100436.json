@@ -1,0 +1,9 @@
+{
+    "query": "SELECT MIN(speed) FROM animal;\n",
+    "resultcount": 1,
+    "result": [
+        {
+            "MIN(speed)": 3
+        }
+    ]
+}

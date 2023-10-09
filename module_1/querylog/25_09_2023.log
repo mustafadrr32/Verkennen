@@ -1,0 +1,4 @@
+SELECT * 
+FROM creature
+WHERE name = 'Killer Bee' OR name = 'Orc';
+; #13:32:53@rubyquest.db

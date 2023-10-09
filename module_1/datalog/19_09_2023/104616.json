@@ -1,0 +1,24 @@
+{
+    "query": "SELECT id = 7 FROM teachers",
+    "resultcount": 6,
+    "result": [
+        {
+            "id = 7": 0
+        },
+        {
+            "id = 7": 0
+        },
+        {
+            "id = 7": 0
+        },
+        {
+            "id = 7": 0
+        },
+        {
+            "id = 7": 0
+        },
+        {
+            "id = 7": 1
+        }
+    ]
+}

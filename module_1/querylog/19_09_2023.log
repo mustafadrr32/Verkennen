@@ -32,3 +32,35 @@ SELECT *FROM courses; #10:04:53@dvc-sd.db
 SELECT *FROM armor; #10:05:33@rubyquest.db
 SELECT *FROM weapon; #10:06:06@rubyquest.db
 SELECT health FROM npc; #10:06:40@rubyquest.db
+SELECT *FROM teachers
+; #10:26:09@dvc-sd.db
+SELECT id = 7 FROM teachers; #10:46:16@dvc-sd.db
+SELECT *FROM courses; #10:54:59@dvc-sd.db
+SELECT *FROM teachers; #10:55:12@dvc-sd.db
+SELECT *FROM region; #11:01:47@rubyquest.db
+SELECT *FROM region; #11:02:05@rubyquest.db
+SELECT name FROM region; #11:03:58@rubyquest.db
+SELECT name FROM region; #11:04:00@rubyquest.db
+SELECT name FROM region; #11:04:01@rubyquest.db
+SELECT *FROM animal
+; #11:04:51@rubyquest.db
+SELECT *FROM animal; #11:06:30@rubyquest.db
+SELECT type FROM animal; #11:06:49@rubyquest.db
+SELECT *FROM animal; #11:11:07@rubyquest.db
+ SELECT type FROM animal; #11:20:48@rubyquest.db
+SELECT * FROM animal WHERE type = 'schaap';; #11:24:04@rubyquest.db
+SELECT * FROM animal WHERE type = 'schaap'; #11:24:19@rubyquest.db
+SELECT *FROM animal WHERE type = 'schaap'; #11:24:28@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:33@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:34@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:34@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:34@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:34@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:35@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:42@rubyquest.db
+SELECT *FROM animal WHERE type = 'Schaap'; #11:24:42@rubyquest.db
+SELECT *FROM	animal; #11:28:39@rubyquest.db
+SELECT type FROM animal  ”sheep”; #11:30:18@rubyquest.db
+SELECT type FROM animal ”sheep”; #11:30:22@rubyquest.db
+SELECT type FROM animal ; #11:33:16@rubyquest.db
+SELECT type FROM animal WHERE type='Sheep'; #11:33:28@rubyquest.db

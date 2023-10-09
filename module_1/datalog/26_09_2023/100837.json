@@ -1,0 +1,9 @@
+{
+    "query": "SELECT MIN(attack) FROM weapon;\n",
+    "resultcount": 1,
+    "result": [
+        {
+            "MIN(attack)": 100
+        }
+    ]
+}

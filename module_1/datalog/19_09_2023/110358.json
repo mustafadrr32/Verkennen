@@ -1,0 +1,21 @@
+{
+    "query": "SELECT name FROM region",
+    "resultcount": 5,
+    "result": [
+        {
+            "name": "Gursoy Island"
+        },
+        {
+            "name": "Sempre"
+        },
+        {
+            "name": "South Groval"
+        },
+        {
+            "name": "North Groval"
+        },
+        {
+            "name": "Breach"
+        }
+    ]
+}

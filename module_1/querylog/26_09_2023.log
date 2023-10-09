@@ -1,0 +1,27 @@
+SELECT * FROM npc; #09:12:50@rubyquest.db
+SELECT * FROM npc WHERE person; #09:14:07@rubyquest.db
+SELECT * FROM npc ; #09:15:00@rubyquest.db
+SELECT * FROM npc WHERE person; #09:16:30@rubyquest.db
+SELECT count (person) FROM npc WHERE person; #09:18:35@rubyquest.db
+SELECT count (type) FROM animal; #09:21:21@rubyquest.db
+SELECT count (name) FROM city; #09:22:25@rubyquest.db
+SELECT * FROM animal; #09:31:45@rubyquest.db
+SELECT count(type) FROM animal WHERE type = "Sheep"; #09:34:20@rubyquest.db
+SELECT count(type) FROM animal WHERE type = "Seasnake"
+; #09:44:22@rubyquest.db
+SELECT count(type) FROM animal WHERE type = "Sea snake"
+; #09:44:34@rubyquest.db
+SELECT count(type) FROM animal WHERE type = "Sea Snake"
+; #09:44:40@rubyquest.db
+SELECT MIN(speed) FROM animal;
+; #10:04:36@rubyquest.db
+SELECT MAX(speed) FROM animal;
+; #10:07:05@rubyquest.db
+SELECT MIN(attack) FROM weapon;
+; #10:08:37@rubyquest.db
+SELECT MAX(price) AS price
+FROM weapon;
+; #10:10:34@rubyquest.db
+SELECT AVG (experience) FROM quest; #10:18:45@rubyquest.db
+SELECT SUM (gold) FROM quest WHERE holder IS 0; #10:19:37@rubyquest.db
+SELECT AVG (price) and (attack) FROM weapon WHERE name like '%sword%'; #10:20:36@rubyquest.db
