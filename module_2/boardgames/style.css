@@ -2,11 +2,15 @@ body{
 
     background-color: black;
     color: white;
+    border:1px solid black;
+        margin: 0 auto;
+        width:850px;
 }
 
 h3{
 
 color: yellow;
+margin-bottom: 5px;
 
 }
 
@@ -16,11 +20,29 @@ header{
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center
+    
+
+}
+
+h2{
+margin-bottom: 10px;
 
 }
 
 ul{
 
     color: lightgreen;
+
+}
+
+h1{
+
+margin-top: 0;
 
 }

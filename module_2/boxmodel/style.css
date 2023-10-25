@@ -14,3 +14,11 @@ padding: 50px 60px 70px 80px;
     height: 200px;
     border: 10px solid blue;
 }
+
+body{
+
+    border:1px solid black;
+    margin: 0 auto;
+    width:850px;
+
+}
