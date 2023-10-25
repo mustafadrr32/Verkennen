@@ -1,0 +1,67 @@
+body{
+
+font-family: sans-serif;
+
+}
+
+h1{
+
+color:greenyellow;
+
+
+}
+
+header>p{
+
+color:blue;
+font-family: sans-serif;
+font-style:normal;
+font-weight: bolder;
+
+}
+
+h2{
+
+    color: orange;
+    font-family: sans-serif;
+}
+
+section>p:nth-of-type(1){
+
+    color:blue;
+font-family: sans-serif;
+font-style:normal;
+font-weight: bolder;
+
+}
+
+section>p:nth-last-of-type(2){
+
+    color:yellow;
+    font-family: cursive;
+
+}
+
+section>p{
+
+color: red;
+
+}
+
+body>p{
+
+    color: yellow;
+    background-color: red;
+    font-style: italic;
+}
+
+body>footer>p{
+
+    color: darkred;
+    text-decoration:underline;
+    }
+
+
+ body{
+    background-color: black;
+} 

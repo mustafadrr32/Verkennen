@@ -1,0 +1,60 @@
+body{
+
+    font-family: sans-serif;
+    
+    }
+    
+#g{
+    
+    color:greenyellow;
+    
+    
+    }
+    
+.deb{
+    
+    color:blue;
+    font-family: sans-serif;
+    font-style:normal;
+    font-weight: bolder;
+    
+    }
+    
+ .oranjee{
+
+    color: orange;
+
+ }
+    
+ .geel{
+    
+    color:yellow;
+    font-family: cursive;
+    font-style: italic;
+
+}
+
+.red{
+
+    color: red;
+    font-weight: bolder;
+
+}
+.rs{
+    
+    color: red;
+    text-decoration:underline;
+    }
+
+
+     body{
+        background-color: black;
+    }   
+
+    .uniek{
+
+
+        background-color: red;
+        color: yellow;
+        font-style: italic;
+    }
