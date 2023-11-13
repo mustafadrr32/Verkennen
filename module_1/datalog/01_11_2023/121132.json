@@ -1,0 +1,10 @@
+{
+    "query": "SELECT type, speed FROM animal WHERE type = \"Tiger\" and speed > 9",
+    "resultcount": 1,
+    "result": [
+        {
+            "type": "Tiger",
+            "speed": 10
+        }
+    ]
+}

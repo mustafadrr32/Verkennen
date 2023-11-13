@@ -1,0 +1,59 @@
+SELECT * FROM creature; #11:56:59@rubyquest.db
+SELECT * FROM creature WHERE name = "Killer Bee"; #11:58:11@rubyquest.db
+SELECT * FROM creature WHERE name = "Killer Bee" OR "Orc"; #11:58:29@rubyquest.db
+SELECT * FROM creature WHERE name = "Orc"; #11:58:42@rubyquest.db
+SELECT * FROM creature WHERE name = "Killer Bee"; #11:59:45@rubyquest.db
+SELECT * FROM animal; #12:00:54@rubyquest.db
+SELECT * FROM animal; #12:01:01@rubyquest.db
+SELECT * FROM animal WHERE speed >= 6 AND defense >= 5; #12:01:59@rubyquest.db
+SELECT * FROM animal WHERE type = "Wolf" OR "Bear" OR "Eagle"; #12:03:28@rubyquest.db
+SELECT * FROM animal WHERE type = "Eagle"; #12:03:40@rubyquest.db
+SELECT * FROM animal WHERE type =  "Wolf" AND "Bear" AND "Eagle"; #12:03:49@rubyquest.db
+SELECT * FROM animal WHERE type =  "Wolf" AND "Bear" AND "Eagle"; #12:03:51@rubyquest.db
+SELECT * FROM animal WHERE type =  "Wolf" OR "Bear" OR "Eagle"; #12:04:06@rubyquest.db
+SELECT * FROM animal ; #12:04:51@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger" and speed > 9; #12:05:47@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger" AND speed > 9; #12:05:50@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger" AND speed >= 9; #12:06:10@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger" AND speed = 9; #12:06:15@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger" AND speed == 9; #12:06:18@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger"; #12:06:24@rubyquest.db
+SELECT * FROM animal; #12:06:30@rubyquest.db
+SELECT * FROM animal WHERE type = "Tiger"; #12:07:38@rubyquest.db
+SELECT * FROM animal; #12:07:48@rubyquest.db
+SELECT * FROM animal ; #12:09:28@rubyquest.db
+SELECT * FROM animal WHERE type == "TIGER"; #12:09:54@rubyquest.db
+SELECT * FROM animal WHERE type = "TIGER"; #12:09:57@rubyquest.db
+SELECT * FROM animal WHERE type = "TIGER";; #12:10:01@rubyquest.db
+SELECT type FROM animal WHERE type = "TIGER";; #12:10:13@rubyquest.db
+SELECT type FROM animal; #12:10:22@rubyquest.db
+SELECT type = "Tiger" FROM animal; #12:10:31@rubyquest.db
+SELECT type FROM animal; #12:10:38@rubyquest.db
+SELECT type FROM animal WHERE type = "Tiger"; #12:10:52@rubyquest.db
+SELECT type, speed FROM animal WHERE type = "Tiger"; #12:11:14@rubyquest.db
+SELECT type, speed FROM animal WHERE type = "Tiger" and speed >= 9; #12:11:27@rubyquest.db
+SELECT type, speed FROM animal WHERE type = "Tiger" and speed > 9; #12:11:32@rubyquest.db
+SELECT * FROM person; #12:12:41@rubyquest.db
+SELECT * FROM person WHERE attack = 10 AND defense = 10 AND agility = 10; #12:13:21@rubyquest.db
+SELECT attack, defense, agility FROM person WHERE attack = 10 AND defense = 10 AND agility = 10; #12:13:39@rubyquest.db
+SELECT * FROM person WHERE attack = 10 AND defense = 10 AND agility = 10; #12:13:49@rubyquest.db
+SELECT name, attack, defense, agility FROM person WHERE attack = 10 AND defense = 10 AND agility = 10; #12:14:04@rubyquest.db
+SELECT * FROM hero
+
+; #12:46:54@rubyquest.db
+SELECT * FROM hero WHERE intelligence != 30 and intelligence != 90
+
+; #12:47:26@rubyquest.db
+select * from weapon; #12:58:24@rubyquest.db
+select * from weapon where price between 100 and 1000; #12:58:52@rubyquest.db
+select * from weapon where attack between 300 and 600; #12:59:59@rubyquest.db
+select * from animal where defense between 7 and 9; #13:00:43@rubyquest.db
+select * from person  ; #13:05:23@rubyquest.db
+select * from person  where name LIKE 'B%';; #13:05:31@rubyquest.db
+select * from animal where type LIKE '%B%';; #13:06:37@rubyquest.db
+SELECT * FROM animal WHERE type LIKE '%ea%';
+; #13:09:32@rubyquest.db
+SELECT * FROM weapon
+; #13:10:20@rubyquest.db
+SELECT * FROM weapon  WHERE name LIKE '%d';
+; #13:10:27@rubyquest.db

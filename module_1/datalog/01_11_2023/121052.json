@@ -1,0 +1,27 @@
+{
+    "query": "SELECT type FROM animal WHERE type = \"Tiger\"",
+    "resultcount": 7,
+    "result": [
+        {
+            "type": "Tiger"
+        },
+        {
+            "type": "Tiger"
+        },
+        {
+            "type": "Tiger"
+        },
+        {
+            "type": "Tiger"
+        },
+        {
+            "type": "Tiger"
+        },
+        {
+            "type": "Tiger"
+        },
+        {
+            "type": "Tiger"
+        }
+    ]
+}

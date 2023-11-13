@@ -1,0 +1,14 @@
+{
+    "query": "SELECT * FROM animal WHERE type = \"Tiger\" AND speed > 9",
+    "resultcount": 1,
+    "result": [
+        {
+            "id": 77,
+            "type": "Tiger",
+            "speed": 10,
+            "defense": 9,
+            "loyalty": 3,
+            "owner": 8
+        }
+    ]
+}

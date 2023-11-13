@@ -1,0 +1,34 @@
+{
+    "query": "SELECT type, speed FROM animal WHERE type = \"Tiger\"",
+    "resultcount": 7,
+    "result": [
+        {
+            "type": "Tiger",
+            "speed": 9
+        },
+        {
+            "type": "Tiger",
+            "speed": 9
+        },
+        {
+            "type": "Tiger",
+            "speed": 9
+        },
+        {
+            "type": "Tiger",
+            "speed": 9
+        },
+        {
+            "type": "Tiger",
+            "speed": 9
+        },
+        {
+            "type": "Tiger",
+            "speed": 9
+        },
+        {
+            "type": "Tiger",
+            "speed": 10
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "query": "SELECT type = \"Tiger\" FROM animal",
+    "resultcount": 105,
+    "result": [
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 1
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        },
+        {
+            "type = \"Tiger\"": 0
+        }
+    ]
+}
