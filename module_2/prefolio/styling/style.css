@@ -49,3 +49,28 @@ margin-top: 10px;
 color: white;
 
 }
+
+@media (min-width:1920px; min-height:1200;){
+
+
+
+.phone {
+
+    display:none;
+
+
+}
+
+@media (min-width:720px; min-height:1280px;) {
+    
+.tablet{
+
+    display:none;
+
+}
+
+
+}
+
+
+}
