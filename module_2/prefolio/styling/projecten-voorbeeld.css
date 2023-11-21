@@ -1,0 +1,59 @@
+  body {
+    width: 95%;
+    margin: 0 auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  section.projecten {
+    /* zorg dat dit een flexbox wordt en zorg dat de items worden gewrapt */
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  div.project {
+    /* bepaal: opvulling, relatieve breedte tov section.projecten, tekstuitlijning (centrum), minimale breedte */
+    
+    
+    text-align: center;
+    min-width: 250px; 
+    margin: 10px;
+    padding: 0px 10px;
+    width: 20%;
+    background-color: grey;
+
+  }
+
+  p.logo {
+    /* bepaal: vaste hoogte */
+    height: 120px;
+
+  }
+
+  p.logo img {
+    /* bepaal: relatieve breedte van de afbeelding tov div.project */
+    width: 100px;
+  }
+
+  p.language {
+    /* bepaal: font-relatieve lettergrootte */
+    font-size: 20px;
+  }
+
+  p.title {
+    /* bepaal: font-relatieve lettergrootte, letterdikte*/
+    font-size: 30px;
+    font-weight:bolder;
+  }
+  p.description{
+    /* bepaal: font-relatieve lettergrootte, tekstuitlijning links*/
+    font-size: 17px;
+    text-align: left;
+
+  }
+
+
+  .git>a:hover{
+
+    color: red;
+
+  }
