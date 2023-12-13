@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Demo</title>
+</head>
+<body>
+  <form id="form_input">
+  Input: <input id="input" value="10" type="number"><br>
+
+  <button id="bereken">Bereken</button>
+</form>
+  <p id="resultaat"></p>
+
+
+  <script>
+    const getal = 10
+    console.log(typeof(getal));
+
+    function berekening(event){
+      let waarde = Number(input.value);
+
+      resultaat.innerHTML = 'resultaat';
+      console.log(typeof(waarde))
+      console.log(waarde * getal)
+      console.dir(input)
+
+      resultaat.innerHTML = waarde * getal
+
+    }
+  
+    bereken.addEventListener('click',berekening);
+    function form_submit(event){
+      event.preventDefault();
+    }
+    form_input.addEventListener('submit',form_submit)
+
+  </script>
+
+  
+</body>
+</html>
