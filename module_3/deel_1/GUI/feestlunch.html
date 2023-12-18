@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+  <title>base</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Base</h1>
+  <form id="form">
+    <p>
+        <label>Stokbrood: </label>
+        <input type="number" min="0" name="stokbrood" id="input_stokbrood" required>
+    </p>
+    <p>
+        <label>Croissant: </label>
+        <input type="number"  min="0" name="croissant" id="input_croissant" required>
+    </p>
+    <p>
+        <label>Kortingsbonnen: </label>
+        <input type="number" min="0" max="100" name="kortingsbonnen" id="input_kortingsbonnen" required>
+    </p>
+    <input type="submit" id="submit_button" value="berekenen">
+    <input type="reset" id="reset_button" value="reset">
+  </form>
+  <div id="Kassabon">
+        <p><label>stokbrood: </label><span id="display_stokbrood"></span></p>
+        <p><label>croissant: </label><span id="display_croissant"></span></p>
+        <p><label>kortingsbonnen: </label><span id="display_kortingsbonnen"></span></p>
+        <p><label>totaal: </label><span id="display_totaal"></span></p>
+  </div>
+
+  <script>
+    const pricecroissant = 0.49
+    const pricestokbrood = 1.92
+    const pricekortingsbon = 0.25
+    PRIJS_CROISSANT = 0.49
+    PRIJS_STOKBROOD = 1.92
+    PRIJS_KORTINGSBON = 0.25
+
+    function submit(event){ 
+      let total =  input_stokbrood.value * PRIJS_STOKBROOD + input_croissant.value * PRIJS_CROISSANT - input_kortingsbonnen.value * PRIJS_KORTINGSBON
+      display_stokbrood.textContent = input_stokbrood.value + " x " + PRIJS_STOKBROOD + " = " + pricestokbrood;
+      display_croissant.textContent = input_croissant.value + " x " + PRIJS_CROISSANT + " = " + pricecroissant;
+      display_kortingsbonnen.textContent = input_kortingsbonnen.value + " x " + PRIJS_KORTINGSBON + " = " + pricekortingsbon;
+      display_totaal.textContent =  total.toFixed(2);
+    }
+    submit_button.addEventListener('click',submit);
+
+    function reset(event){
+      display_stokbrood.textContent = input_stokbrood.value;
+      display_croissant.textContent = input_croissant.value;
+      display_kortingsbonnen.textContent = input_kortingsbonnen.value;
+    }
+    reset_button.addEventListener('click',reset);
+
+    // prevent document from default trying to really submit
+    function form_submit(event){
+      event.preventDefault();
+    }
+    
+    form.addEventListener('submit',form_submit)
+
+  </script>
+</body>
+</html>
